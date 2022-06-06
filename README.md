@@ -1,6 +1,6 @@
 # About
 
-<b>Hi, My name is Amin. I'm Frontend developer fron Russia. Sharing my code and pet projects here.</b>
+<b>Hi, My name is Amin. I'm a Frontend developer from Russia. Sharing my code here.</b>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=betteramsly&&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
