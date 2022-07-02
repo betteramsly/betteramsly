@@ -28,6 +28,11 @@
 <br><b>-[Repository](https://github.com/betteramsly/react-pizza)</b>
 <br><b>-[Demo](https://react-pizza-pi-nine.vercel.app/)</b>
 
+<b>➖ Responsive Layout </b>
+<br><b><kbd>HTML</kbd> <kbd>CSS</kbd> <kbd>JS</kbd> <kbd>SCSS</kbd><kbd>Adaptive</kbd></b>
+<br><b>-[Repository](https://github.com/betteramsly/portfolio)</b>
+<br><b>-[Demo](https://betteramsly.github.io/portfolio/)</b>
+
 <hr>
 
 ### Connect with me
