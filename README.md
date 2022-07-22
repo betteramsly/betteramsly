@@ -36,7 +36,7 @@
 <hr>
 
 ### Connect with me
- <a href="https://t.me/betteramsly">	<img alt="Telegram" src="https://img.shields.io/badge/@betteram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+ <a href="https://t.me/betteramsly">	<img alt="Telegram" src="https://img.shields.io/badge/@betteramsly-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
  <br/>
   <a href="betteramsly@mail.ru/"><img alt="E-mail" src="https://img.shields.io/badge/betteramsly@mail.ru-%23E4405F.svg?style=for-the-badge&logo=Inbox&logoColor=white"/></a>
  <br/>
