@@ -33,6 +33,11 @@
 <br><b>-[Repository](https://github.com/betteramsly/portfolio)</b>
 <br><b>-[Demo](https://betteramsly.github.io/portfolio/)</b>
 
+<b>➖ Product Card</b>
+<br><b> <kbd>HTML</kbd> <kbd>SCSS</kbd> <kbd>JS</kbd> <kbd>module.scss</kbd> <kbd>React</kbd><kbd>Next.js</kbd> </b>
+<br><b>-[Repository](https://github.com/betteramsly/vicuesoft-test)</b>
+<br><b>-[Demo](https://vicuesoft-test.vercel.app/)</b>
+
 <hr>
 
 ### Connect with me
