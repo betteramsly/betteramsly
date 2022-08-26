@@ -25,7 +25,7 @@
 
 ### Works   
 <b>➖ Pizza App</b>
-<br><b><kbd>React</kbd> <kbd>Redux Toolkit</kbd> <kbd>Firebase</kbd> <kbd>Typescript</kbd><kbd>Local Storage</kbd></b>
+<br><b><kbd>React</kbd> <kbd>Redux-Toolkit</kbd> <kbd>JavaScript</kbd> <kbd>Typescript</kbd><kbd>Local Storage</kbd></b>
 <br><b>-[Repository](https://github.com/betteramsly/react-pizza)</b>
 <br><b>-[Demo](https://react-pizza-pi-nine.vercel.app/)</b>
 
