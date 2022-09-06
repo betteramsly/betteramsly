@@ -39,8 +39,8 @@
 
 <b>➖ Memories</b>
 <br><b><kbd>JS</kbd> <kbd>React</kbd> <kbd>Redux</kbd> <kbd>Node.js</kbd> <kbd>Express</kbd> <kbd>MongoDB</kbd></b>
-<br><b>- [Repository](https://github.com/betteramsly/memories-app-client)</b>
-<br><b>- [Demo](https://memories-app-client.vercel.app/)</b>
+<br><b>- [Repository](https://github.com/betteramsly/memories-project)</b>
+<br><b>- [Demo](В процессе реализации...)</b>
 
 <b>➖ Responsive Layout </b>
 <br><b><kbd>HTML</kbd> <kbd>CSS</kbd> <kbd>CSS-Grid</kbd> <kbd>Flexbox</kbd> <kbd>JS</kbd> <kbd>SCSS Mixins</kbd> <kbd>Adaptive</kbd></b>
