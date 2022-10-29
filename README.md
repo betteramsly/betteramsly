@@ -18,7 +18,6 @@
 <img align="left" alt="Express" width="35px" src="https://wsofter.ru/wp-content/uploads/2017/12/node-express.png" />
 <img align="left" alt="MongoDB" width="35px" src="https://www.ictdemy.com/images/5728/mdb.png" />
 <img align="left" alt="Webpack" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" />
-<img align="left" alt="Prettier" width="35px" src="https://avatars.githubusercontent.com/u/25822731?s=280&v=4" />
 <img align="left" alt="Material-UI" width="35px" src="https://v4.mui.com/static/logo.png" />
 <img align="left" alt="Git, GitFlow, GitLab" width="35px" src="https://media.tproger.ru/uploads/2020/12/git_guide_for_beginners-cover-icon-original.png" />
 <img align="left" alt="Figma" width="35px" src="https://play-lh.googleusercontent.com/efwNlvQ3pch_-hZ9xeHf6YF-f_rHzQQo21IVevPLOxpzSVfxuVKom2_7C6axFbC-3rU" />
