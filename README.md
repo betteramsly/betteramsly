@@ -25,9 +25,6 @@
 <br>
 <hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=betteramsly&&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<hr>
-
 
 ### Works   
 <b>➖ Pizza App</b>
