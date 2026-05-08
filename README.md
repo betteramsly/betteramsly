@@ -4,28 +4,28 @@
 
 
 
+
 ## Languages and Tools
 
-<img align="left" alt="HTML5" width="35x" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
-<img align="left" alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"/>
-<img align="left" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Typescript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-<img align="left" alt="Redux" width="35px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/redux/redux.png" />
-<img align="left" alt="Next.js" width="35px" src="https://cdn.aglty.io/bwql7jyk/Attachments/NewItems/image_20211214122557_0.png" />
-<img align="left" alt="Node.js" width="35px" src="https://media.tproger.ru/uploads/2022/04/node_js_icon-cover-icon-original.png" />
-<img align="left" alt="Express" width="35px" src="https://wsofter.ru/wp-content/uploads/2017/12/node-express.png" />
-<img align="left" alt="MongoDB" width="35px" src="https://www.ictdemy.com/images/5728/mdb.png" />
-<img align="left" alt="Webpack" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" />
-<img align="left" alt="Material-UI" width="35px" src="https://v4.mui.com/static/logo.png" />
-<img align="left" alt="Git, GitFlow, GitLab" width="35px" src="https://media.tproger.ru/uploads/2020/12/git_guide_for_beginners-cover-icon-original.png" />
-<img align="left" alt="Figma" width="35px" src="https://play-lh.googleusercontent.com/efwNlvQ3pch_-hZ9xeHf6YF-f_rHzQQo21IVevPLOxpzSVfxuVKom2_7C6axFbC-3rU" />
+<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
+<img align="left" alt="CSS3" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
+<img align="left" alt="Sass" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"/>
+<img align="left" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
+<img align="left" alt="React" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
+<img align="left" alt="TypeScript" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/>
+<img align="left" alt="Redux" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"/>
+<img align="left" alt="Next.js" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"/>
+<img align="left" alt="Node.js" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/>
+<img align="left" alt="Express" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"/>
+<img align="left" alt="MongoDB" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"/>
+<img align="left" alt="Webpack" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg"/>
+<img align="left" alt="Material UI" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg"/>
+<img align="left" alt="Git" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
+<img align="left" alt="Figma" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"/>
 <br>
 <hr>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=betteramsly&&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 <hr>
 
 
